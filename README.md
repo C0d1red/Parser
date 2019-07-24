@@ -1,2 +1,2 @@
 # PythonParser
-Weather, value, aircraft
+Weather, value of currency, aircraft
